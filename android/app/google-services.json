@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "947995887661",
+    "project_id": "brew-crew-thenetninja",
+    "storage_bucket": "brew-crew-thenetninja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947995887661:android:1fa63ace385fbd534350a4",
+        "android_client_info": {
+          "package_name": "app.k12onos.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947995887661-kqeomhhhj7tumjuh76omo4ae2vks4rnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_waOjWdmJdQvUkFVXJiIQlXCW0vjn3ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947995887661-kqeomhhhj7tumjuh76omo4ae2vks4rnn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947995887661-l7aqt3u6g9uvp2ugro629bcs65bbdfgv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.k12onos.brewCrew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
