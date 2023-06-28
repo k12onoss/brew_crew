@@ -1,16 +1,12 @@
 # brew_crew
 
-A new Flutter project.
+A Flutter project to save brew preferences of your team!
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Firebase auth for login and register.
+- Firestore as database.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/k12onoss/brew_crew/blob/main/screenshots/home.png?raw=true" width="49%"> <img src="https://github.com/k12onoss/brew_crew/blob/main/screenshots/register.png?raw=true" width="49%"> <img src="https://github.com/k12onoss/brew_crew/blob/main/screenshots/sign_in.png?raw=true" width="49%"> <img src="https://github.com/k12onoss/brew_crew/blob/main/screenshots/settings.png?raw=true" width="49%">
